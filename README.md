@@ -1,11 +1,11 @@
-# Crisp Minimalist's Résumé Template
+# Yanni4night Minimalist's Résumé Template
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/powered%20by-jekyll-red.svg)
 
 ## Introduction
 
-This is a Minimalist's Résumé Template made by Crisp, which is powered by [Jekyll](http://jekyllrb.com/). I use it on my website, [https://crispgm.com/resume.html](https://crispgm.com/resume/).
+This is a Minimalist's Résumé Template made by [Crisp](https://crispgm.com), which is powered by [Jekyll](http://jekyllrb.com/). I use it on my website, <http://yanni4night.com/resume/>.
 
 You can config all the data in YAML and make it your own résumé. Then, you might use on your website or wherever you want.
 
@@ -14,7 +14,7 @@ You can config all the data in YAML and make it your own résumé. Then, you mig
 1. Clone the repo
 
     ```
-    git clone https://github.com/crispgm/resume.git
+    git clone https://github.com/yanni4night/resume.git
     ```
 
 2. Install Jekyll
