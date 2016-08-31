@@ -83,6 +83,23 @@ permalink: /resume.html
           {% endfor %}
         </div>
       </div>
+      <div class="section">
+        <div class="section-title">
+          RESOURCE
+        </div>
+        <div class="section-content">
+          {% for res in site.data.resume.resources %}
+          <div class="block">
+            <div class="block-title">
+              {{ res.title }}
+            </div>
+            <div class="block-subtitle">
+              <a href="{{ res.url }}" target="_blank">{{ res.url }}</a>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
 
     </div>
     <footer>

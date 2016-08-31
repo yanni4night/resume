@@ -28,3 +28,8 @@ work_exp:
     duration: Apr 2013 - Oct 2014
     company: Sogou, Inc.
     description: Web Navigation, Web Online Games, Passport
+resources:
+  - title: Translations
+    url: http://www.zcfy.cc/@yanni4night/article
+  - title: Npm
+    url: https://www.npmjs.com/~yinyongcom666
