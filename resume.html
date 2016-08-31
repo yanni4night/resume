@@ -84,27 +84,6 @@ permalink: /resume.html
         </div>
       </div>
 
-      <div class="section">
-        <div class="section-title">
-          PROJECTS
-        </div>
-        <div class="section-content">
-          {% for project in site.data.resume.projects %}
-          <div class="block">
-            <div class="block-title">
-              {{ project.name }}
-            </div>
-            <div class="block-subtitle">
-              {{ project.description }}
-            </div>
-            <div class="block-content">
-              {{ project.contribution }}
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-
     </div>
     <footer>
       Résumé template made with <i class="fa fa-heart aria-hidden="true></i> by David Zhang. <a href="https://github.com/crispgm/resume">GitHub</a>
